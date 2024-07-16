@@ -15,6 +15,11 @@ In the `notebooks` folder you can find the `gradio_demo.py` code for running a d
 ![2024-07-16 11_18_06-Gradio](https://github.com/user-attachments/assets/142cc658-0aef-4136-a8d4-1c0310e60a31)
 
 
+
+https://github.com/user-attachments/assets/1cc160d4-7319-405e-bc1f-e6f973fe3f97
+
+
+
 ## Results
 Here are some generated images:
 
